@@ -55,7 +55,7 @@ class Home extends Component{
                             </li>
                             <li onClick={()=>window.open("https://www.linkedin.com/in/shubhamkumaragarwal2/","_blank")}>
                                 <i>
-                                    <LinkedIn/>
+                                    <LinkedIn/> 
                                 </i>
                             </li>
                         </ul>
