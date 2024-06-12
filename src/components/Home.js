@@ -47,7 +47,7 @@ class Home extends Component{
                 <div id="particles-js"></div>
               <div class="box title">
                     <div className="container-fluid solid">
-                        <ul className="links">
+                        <ul className="links"> 
                             <li onClick={()=>window.open("https://github.com/shubham-5956","_blank")}>
                                 <i>
                                     <Github/>
